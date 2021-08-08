@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Seungjae Moon</h1>
-<h3 align="center">A passionate Software developer from Republic of Korea</h3>
+<h1 align="left">Hi 👋, I'm Seungjae Moon</h1>
+<h3 align="left">I want to grow as a Software developer who is good at 'design', presents optimal solution according to requirements, and develops efficiently.</h3>
 
 - 🌱 I’m currently learning **Advanced Java Techniques, Studying to succeed in algorithm testing**
 
