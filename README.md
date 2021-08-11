@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=3B5997&fontColor=FFFFFF&text=Seungjae's%20Introduce%20Page&fontSize=35&height=250&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=84C0C6&fontColor=FFFFFF&text=Seungjae's%20Profile%&fontSize=35&height=250&fontAlign=70)
 <h1 align="left">Hi there👋, I'm Seungjae Moon</h1>
 
 <h3 align="left">I want to grow as a Software developer who is good at 'design', presents optimal solution according to requirements, and develops efficiently.</h3>
