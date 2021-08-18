@@ -18,6 +18,9 @@
 
 <h3 align="left">Activity:</h3>
 - 2021 Bithumb Tech Academy (Server Back-End Process) / 2021.08.17 ~
+- Elasticsearch Fundamental Training / 2021.02
+- LikeLion 8th Manager / 2020.01 - 2020.12
+- LikeLion 7th New member / 2019.01 - 2019.12
 
 
 <h3 align="left">GitHub Stats</h3>
