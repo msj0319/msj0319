@@ -3,7 +3,7 @@
 
 <h3 align="left">I want to grow as a Software developer who is good at 'design', presents optimal solution according to requirements, and develops efficiently.</h3>
 
-- 🌱 I’m currently learning **Reactive Kafka**
+- 🌱 I’m currently learning **WebFlux Kafka**
 
 - 📝 I regularly write articles on [http://msj0319.github.io](http://msj0319.github.io)
 
