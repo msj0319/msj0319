@@ -19,9 +19,7 @@
 
 <h3 align="left">Activity:</h3>
 
-<img src="https://img.shields.io/badge/2021 Bithumb Tech Acdemy-F47320?style=flat-square&logo=&logoColor=white"/>
-
-- 2021 Bithumb Tech Academy (Server Back-End Process) / 2021.08.17 ~ 2021.10.12
+- <img src="https://img.shields.io/badge/2021 Bithumb Tech Acdemy-F47320?style=flat-square&logo=&logoColor=white"/> **(Server Back-End Process)** / 2021.08.17 ~ 2021.10.12
   - 실무 프로젝트 진행
   - BTS; Bithumb NFT SNS
  
