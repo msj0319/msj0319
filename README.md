@@ -20,13 +20,16 @@
 <h2 align="left">💻Activity & Projects</h3>
 
 - <img src="https://img.shields.io/badge/2021 Bithumb Tech Acdemy-F47320?style=flat-square&logo=&logoColor=white"/> **(Server Back-End Process)** / 2021.08 - 2021.10
-  - 실무 프로젝트 진행
-  - BTS; Bithumb NFT SNS
+  - **NFT 이미지 기반 SNS 프로젝트 aka BTS (Bithumb NFT SNS)**
+  - [커뮤니티 서버 개발](https://github.com/bithumbNFT/bts-msa-board-server)
+  - 경매 서버 개발 참여
+    - [Producer 서버 개발](https://github.com/bithumbNFT/bts-Auction-Producer)
+    - [Consumer 서버 개발](https://github.com/bithumbNFT/bts-Auction-Consumer)
  
 - Elasticsearch Fundamental Training / 2021.02
 
 - Capstone Design Project / 2020.03 - 2020.12
-  - 상명대학교 학생들을 위한 익명 랜덤채팅 앱 [미소(MISO)] 개발
+  - 상명대학교 학생들을 위한 익명 랜덤채팅 앱 [미소(MISO)](https://github.com/msj0319/miso_capstone_design_project) 개발
 
 - LikeLion 8th Manager / 2020.01 - 2020.12
  
