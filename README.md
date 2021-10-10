@@ -19,7 +19,7 @@
 
 <h2 align="left">💻Activity & Projects</h3>
 
-- <img src="https://img.shields.io/badge/2021 Bithumb Tech Acdemy-F47320?style=flat-square&logo=&logoColor=white"/> **(Server Back-End Process)** / 2021.08 - 2021.10
+- <img src="https://img.shields.io/badge/2021 Bithumb Tech Academy-F47320?style=flat-square&logo=&logoColor=white"/> **(Server Back-End Process)** / 2021.08 - 2021.10
   - **NFT 이미지 기반 SNS 프로젝트 aka BTS (Bithumb NFT SNS)**
   - [커뮤니티 서버 개발](https://github.com/bithumbNFT/bts-msa-board-server)
   - 경매 서버 개발 참여
