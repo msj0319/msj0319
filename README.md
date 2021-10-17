@@ -35,10 +35,6 @@
  
 - LikeLion 7th New member / 2019.01 - 2019.12
 
-<h2 align="left">✏Certificate</h3>
-
-- 정보처리기사 / 2021.06
-
 
 <h3 align="left">GitHub Stats</h3>
 
