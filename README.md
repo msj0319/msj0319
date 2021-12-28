@@ -19,10 +19,6 @@
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msj0319&layout=compact&hide=python,html,css,JupyterNotebook)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">BOJ Online Judge</h3>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=msj0319)](https://solved.ac/msj0319/)
-
 
 
 
